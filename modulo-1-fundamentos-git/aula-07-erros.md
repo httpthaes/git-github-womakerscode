@@ -1,4 +1,4 @@
-# Aula 6 • Desfazer e corrigir erros com segurança
+# Aula 7 • Desfazer e corrigir erros com segurança
 
 Cada erro tem sua solução 
 

@@ -77,8 +77,6 @@ You are in 'detached HEAD' state...
 # saiu do HEAD para apontar diretamente para um commit específico
 ```
 
-- 
-
 ## Boas práticas para um bom histórico
 
 - Comece a mensagem com um verbo -> adiciona, atualiza, remove, corrige, cria
