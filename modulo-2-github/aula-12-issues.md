@@ -1,4 +1,4 @@
-# Aula 12 e 13 • Issues: organizando o trabalho e resolvendo tarefas
+# Aula 12 • Issues: organizando o trabalho e resolvendo tarefas
 
 Um registro de uma Github Issue segue o mesmo objetivo de um Kanban, onde temos uma lista de tarefas para **corrigir um bug**, **criar nova funcionalidade** ou **dúvida/tarefa de trabalho a organizar**.
 
