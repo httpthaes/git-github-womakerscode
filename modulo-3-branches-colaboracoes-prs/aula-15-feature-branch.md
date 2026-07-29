@@ -19,3 +19,5 @@ $ git commit -m "Adiciona seletor de idioma PT/EN"
 $ git push -u origin feat/seletor-idioma
 # pare aqui: ainda NÃO abrimos o Pull Request
 ```
+
+> **Observação:** Este repositório possui uma **Pull Request** de exemplo e também foi realizado **Code Review** com as ferramentas do Github para testar o funcionamento.
