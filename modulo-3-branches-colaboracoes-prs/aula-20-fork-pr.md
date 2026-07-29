@@ -36,6 +36,8 @@ $ git merge upstream/main
 
 Dois modelos de colaboração
 
+| Modelo | Quando usar |
+| --- | --- |
 | Repositório compartilhado | Equipe com acesso de escrita. Branches no mesmo repositório (aulas 13 a 19). |
 | Fork | Projetos de terceiros ou open source, sem acesso de escrita. PR a partir do seu fork. |
 
